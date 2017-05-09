@@ -1,5 +1,5 @@
 # js-training
 
-Just some github to save code from js training and doing small stuff nothing really big
+github repo to save code from javascript training sessions and doing small stuff nothing really big.
 
 if you are interested in anything just ask :)
